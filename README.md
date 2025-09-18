@@ -23,7 +23,7 @@ Dealt with challenges like handling negative values (losses) and date parsing.
 Practiced SQL queries for: Total sales, profit, COGS, and discount calculations. Profit Margin % and Discount % validation against Power BI measures. Time-series analysis using DATENAME, MONTH, and ORDER BY.
 Understood the need for surrogate columns (e.g., Month Number) for correct sorting.
 
-3.Data Modeling (Power BI) - Built a Calendar table to enable proper time intelligence functions (YTD, MTD, trends).
+3. Data Modeling (Power BI) - Built a Calendar table to enable proper time intelligence functions (YTD, MTD, trends).
 Learned relationships between fact table (financial data) and dimension tables (date, products, countries).
 Created DAX measures for: Total Sales, Total Profit, Total Discounts
 
